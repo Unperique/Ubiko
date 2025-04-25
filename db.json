@@ -1,0 +1,28 @@
+{
+  "businesses": [
+    {
+      "id": "1",
+      "name": "Café del Centro",
+      "description": "El mejor café de la ciudad",
+      "category": "restaurantes"
+    },
+    {
+      "id": "2",
+      "name": "Librería Moderna",
+      "description": "Libros y más",
+      "category": "tiendas"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "restaurantes",
+      "icon": "🍽️"
+    },
+    {
+      "id": "2",
+      "name": "tiendas",
+      "icon": "🏪"
+    }
+  ]
+}
